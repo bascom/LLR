@@ -7,12 +7,14 @@
 // "Revisiting LLR 1_2.c" includes basic background info.
 // "Test Data.txt" is an intro corpus.
 
-// Where is it useful? After piping the output of your favorite,
-// cleaned Gutenberg text, run it through this program and 
-// pipe the output to an empty file. Vim may be used to quickly 
-// navigate to the LLR scores, copy them, and paste them into 
-// their own empty file for easy copying in your favorite 
+// Where is it useful? After retrieving & cleaning your favorite
+// Gutenberg text, run it through this program. Pipe the output 
+// to an empty file. Vim may be used to quickly navigate to the 
+// LLR scores, copy them, and paste them into a separate file. 
+// Then, open the bigrams and LLR scores with your favorite 
 // spreadsheet program. Future editions may include refinements. 
+// The output from this program includes two features: LLR scores 
+// and the contingency matrices on which the LLR scores are based.
 
 
 // Compile & Link: gcc LLR.c -o LLR -lm
