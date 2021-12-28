@@ -163,7 +163,6 @@ int main (int argc, char * argv[]) {
 	}
 
 
-	// Version 3_3.c
 	// Now, using the head of the list, traverse through 
 	// the list again removing duplicates and incrementing 
 	// the count member variable. Hold the first ngram constant, 
