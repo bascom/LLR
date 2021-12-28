@@ -11,7 +11,7 @@
 // cleaned Gutenberg text, run it through this program and 
 // pipe the output to an empty file. Vim may be used to quickly 
 // navigate to the LLR scores, copy them, and paste them into 
-// their own empty file for easy manipulation in your favorite 
+// their own empty file for easy copying in your favorite 
 // spreadsheet program. Future editions may include refinements. 
 
 
